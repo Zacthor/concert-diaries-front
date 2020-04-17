@@ -6,6 +6,8 @@ import Test from "./components/Test"
 const rootEl = document.getElementById("root")
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 
+const asshat = 'asshat'
+
 render(
   (
     <BrowserRouter>
